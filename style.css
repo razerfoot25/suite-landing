@@ -278,12 +278,12 @@ picture {
     grid-template-columns: 1fr;
     justify-items: start;
     align-items: center;
-    padding-block: 2em;
   }
 }
 .hero__info {
   display: grid;
   text-align: center;
+  padding-block: 2.5em;
 }
 
 .hero__info--bold {
